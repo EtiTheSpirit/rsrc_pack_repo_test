@@ -1,0 +1,14 @@
+[
+	{
+		//THIS COUNTS AS A GREETING. The fenerox.config file has no greeting subcategory.
+    //To do: Fill in other events listed in fenerox.config?
+		"op": "add",
+		"path": "/converse/default/spiritguardian",
+		"value": {
+			"Glowing person. Somewhat scared. Cautiously hopeful.",
+			"Spirit Guardian. Appears friendly. Quite optimistic.",
+			"Strange newcomer. Glows bright. Very curious.",
+			"Spirit. Peaceful. Somewhat alert."
+		}
+	}
+]
