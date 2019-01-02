@@ -82,7 +82,7 @@
 			"Your glow is almost as good as mine! The name's <selfname>. Nice to meet ya."
 		]
 	},
-//BELOW: Throws an error in the console as there is no "fenerox" entry in the stock converse.config. To do: Implement my own?
+//BELOW: Throws an error in the console as there is no "fenerox" entry in the stock converse.config. HOWEVER: it IS located in fenerox.config.
 //	{
 //		"op": "add",
 //		"path": "/greeting/fenerox/spiritguardian",
